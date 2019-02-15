@@ -1,0 +1,27 @@
+########################################################################################################################
+
+###Nome do Arquivo
+
+gsynthUFxx.abc
+
+##Legenda 
+
+uf-> Indicador da Unidade Federativa 
+csv-> Planilha 
+png-> Imagem 
+
+##Planilha
+wgt-> Pesos 
+beta-> Coeficientes da Regressão 
+att-> Coeficientes de Tratamento 
+avg-> Efeito Medio de Tratamento 
+
+##Graficos
+a-> Intervalo de Confiança 
+b-> Controle x Tratamento 
+c-> Fatores
+
+###Exemplo de Identificação
+
+gsynth23beta.csv-> Planilha de Coeficientes de Regressão da Unidade Federativa 23
+gsynth28a.png -> Grafico do Intervalo de Confiança da Unidade Federativa 28
